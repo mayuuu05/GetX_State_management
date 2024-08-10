@@ -1,16 +1,15 @@
 # getx_state_management
 
-A new Flutter project.
+<div align ="center">
 
-## Getting Started
+  <img src = "https://github.com/user-attachments/assets/420cf9d3-3833-49ac-b063-ad78fd01d689"  height=35% width=22%  />
+ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <video height="450" src="https://github.com/user-attachments/assets/8697e1d8-164e-446b-b0c5-07e666c7ad2b" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+</div>
