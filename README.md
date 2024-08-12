@@ -1,4 +1,4 @@
-# getx_state_management
+# 🛠 getx_state_management
 
 ####  GetX is a powerful and lightweight Flutter package that provides tools for state management, dependency injection, and route management. It’s designed to make your Flutter application more maintainable and scalable by using a reactive programming approach.
 
