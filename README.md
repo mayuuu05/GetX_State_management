@@ -6,9 +6,10 @@
   <video height="450" src="https://github.com/user-attachments/assets/8697e1d8-164e-446b-b0c5-07e666c7ad2b" />
 
 </div>
-## Navigate betwen Screens
+## Navigate betwen Screens 
+
 <div align ="center">
-[Screen_recording_20240810_112023.webm]()
+
 
   <img src = "https://github.com/user-attachments/assets/dee1d25c-5a36-41a1-a6b8-9aec6f2bf800"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/cd0c1893-9f04-4e01-8879-0acec3a743d1"  height=35% width=22%  />
