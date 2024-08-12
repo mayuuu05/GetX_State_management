@@ -60,7 +60,7 @@ class MyHomePage extends StatelessWidget {
 </div>
 
 
-### Employee Management with GetX: CRUD Operations
+### ☀ Employee Management with GetX: CRUD Operations
 
 This Flutter application implements a CRUD (Create, Read, Update, Delete) functionality for managing employee details using the GetX state management package.
 
