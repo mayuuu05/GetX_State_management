@@ -76,7 +76,6 @@ This Flutter application implements a CRUD (Create, Read, Update, Delete) functi
     <img src = "https://github.com/user-attachments/assets/56f7e13e-33ea-430d-a26a-11583622a458"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/73e76c9c-9346-4f5e-bda2-1f1a92c3454e"  height=35% width=22%  />
     <img src = "https://github.com/user-attachments/assets/775b1c5e-9f69-47bc-9eca-2095b641ae7a"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/3bc92151-836a-495b-ad3f-728722279038"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/1b35b87f-a0ac-44cf-8d11-0292880d57c2"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/ca942671-65ad-4bbc-8ddf-b5f5ef7ba9f9"  height=35% width=22%  />
   <video height="450" src="https://github.com/user-attachments/assets/6cc601bf-736c-43a4-bf93-81b4688f83ed" />
