@@ -51,8 +51,6 @@ class MyHomePage extends StatelessWidget {
 ## Navigate betwen Screens 
 
 <div align ="center">
-
-
   <img src = "https://github.com/user-attachments/assets/dee1d25c-5a36-41a1-a6b8-9aec6f2bf800"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/cd0c1893-9f04-4e01-8879-0acec3a743d1"  height=35% width=22%  />
   <video height="450" src="https://github.com/user-attachments/assets/4b4cc39f-854e-48e8-bf92-700d750deaf0" />
